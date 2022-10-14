@@ -32,7 +32,7 @@
 //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
                         bindings = <
    &kp TAB   &kp Q           &kp W          &kp E          &kp R            &kp T    &kp Y    &kp U    &kp I     &kp O    &kp P    &kp BSPC
-   &kp ESC   &hm LCTRL A &hm LATL S &hm LCMD D &hm LSHFT F  &kp G    &kp H    &hm RSHFT J    &hm RCMD K     &hm RALT L    &RCTRL SEMI &kp SQT
+   &kp ESC   &hm LCTRL A &hm LATL S &hm LCMD D &hm LSHFT F  &kp G    &kp H    &hm RSHFT J    &hm RCMD K     &hm RALT L    &hm RCTRL SEMI &kp SQT
    &kp LSHFT &lt 5 Z         &kp X        &kp C          &kp V          &kp B    &kp N    &kp M    &kp COMMA &kp DOT  &kp FSLH &kp RET
                               &kp LGUI    &mo 2  &lt 1 SPACE   &lt 1 SPACE &mo 3 &kp RALT
                         >;
