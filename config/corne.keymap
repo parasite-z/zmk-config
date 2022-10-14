@@ -66,13 +66,14 @@
                                                 &mt LGUI TAB    &mo LWR      &lt NAV SPACE     &lt NAV SPACE     &mo RSE       &kp RALT
                         >;
                 };
+
                 nav_layer {
                         label="NAV";
                         bindings = <
 // ╭─────────────┬──────────────┬─────────────┬──────────────┬─────────────┬─────────────╮   ╭──────────────┬──────────────┬─────────────┬─────────────┬──────────────┬────────────╮
      &kp TAB        &bt BT_CLR    &bt BT_SEL 0  &bt BT_SEL 1   &bt BT_SEL 2  &bt BT_SEL 3        &kp HOME       &kp PG_DN       &kp PG_UP    &kp END      &trans        &kp BSPC
 // ├─────────────┼──────────────┼─────────────┼──────────────┼─────────────┼─────────────┤   ├──────────────┼──────────────┼─────────────┼─────────────┼──────────────┼────────────┤
-     &kp ESC        &kp LCTRL     &kp LATL      &kp LGUI       &kp LSHFT     &bt BT_SEL 4        &kp LEFT       &kp DOWN        &kp UP       &kp RIGHT    &trans        &trans
+     &kp ESC        &kp LCTRL     &kp LALT      &kp LGUI       &kp LSHFT     &bt BT_SEL 4        &kp LEFT       &kp DOWN        &kp UP       &kp RIGHT    &trans        &trans
 // ├─────────────┼──────────────┼─────────────┼──────────────┼─────────────┼─────────────┤   ├──────────────┼──────────────┼─────────────┼─────────────┼──────────────┼────────────┤
      &kp LSHFT      &trans        &trans        &trans         &trans        &trans              &trans         &trans          &trans       &trans       &trans        &kp RET
 // ╰─────────────┴─────────────┴──────────────┼──────────────┼─────────────┼─────────────┤   ├──────────────┼──────────────┼─────────────┼─────────────┴──────────────┴────────────╯
