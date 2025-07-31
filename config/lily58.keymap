@@ -30,6 +30,7 @@
 #define LWR 5
 #define ADJ 6
 #define NW 7
+#define NUMW 8
 
 &caps_word {
     continue-list = <UNDERSCORE MINUS BSPC DEL N1 N2 N3 N4 N5 N6 N7 N8 N9 N0>;
